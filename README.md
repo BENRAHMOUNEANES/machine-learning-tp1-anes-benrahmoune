@@ -1,6 +1,6 @@
 # Machine Learning — Practical Session 1: Data Exploration and Preprocessing
 
-**National Higher School of Advanced Technologies (ENST)**  
+**National Higher School of Advanced Technologies (ENSTA)**  
 **Academic Year:** 2026–2027  
 **Student:** Anes Benrahmoune  
 **Level:** 4th Year Student (Artificial Intelligence Specialty)  
